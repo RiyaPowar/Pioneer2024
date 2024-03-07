@@ -10622,6 +10622,7 @@ header.nav-fixed .mode-container i.gg-moon {
   filter: grayscale(1);
   transition: 0.3s ease;
   margin: 1.5rem 1rem;
+  padding: 10px;
   border-radius: var(--border-radius); }
 
 .w3l-logos .logo-view img:hover {
